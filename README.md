@@ -18,7 +18,6 @@ You can download this asset from Unity Asset Store:
 ![image](https://github.com/swordmaster003/Fighter-Complete-Template-Pro/blob/master/Screenshots/ControlOnPC.png)
 
 <center>Control On Mobile:</center>
-
 ![image](https://github.com/swordmaster003/Fighter-Complete-Template-Pro/blob/master/Screenshots/ControlOnMobile.png)
 
 ## Online Documents:
