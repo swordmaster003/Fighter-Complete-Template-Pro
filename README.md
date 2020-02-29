@@ -13,6 +13,8 @@ The Fighter Complete Template Pro is a complete fighter template, which integrat
 You can download this asset from Unity Asset Store:
 [Fighter Complete Template Pro](https://assetstore.unity.com/packages/templates/systems/fighter-complete-template-pro-154380)
 
+## Control
+
 <center>Control On PC:</center>
 
 ![image](https://github.com/swordmaster003/Fighter-Complete-Template-Pro/blob/master/Screenshots/ControlOnPC.png)
