@@ -29,104 +29,69 @@ You can download this asset from Unity Asset Store:
 
 ## Features
 
-<BR>
-This Pro version of the fighter models are more delicate, and each fighter model has a Landing animation.
-</BR>
+- This Pro version of the fighter models are more delicate, and each fighter model has a Landing animation.
 
-<BR>
-<STRONG> * </STRONG>
-The fighter can be controlled by the keyboard of the PC, and also can be controlled by the D-pad and virtual buttons on the mobile.
-</BR>
+  ![image](https://github.com/swordmaster003/Fighter-Complete-Template-Pro/blob/master/Screenshots/F22Display.png)
 
-<BR>
-<STRONG> * </STRONG>
-The Flight Flight System of the fighter is designed according to the aerodynamics of modern fighter
-</BR>
+  ![image](https://github.com/swordmaster003/Fighter-Complete-Template-Pro/blob/master/Screenshots/F35Display.png)
 
-<BR>
-<STRONG> * </STRONG>
-The HUD system of the fighter is Realistic and High Fidelity.
-</BR>
-It automatically calculates and shows current Speed, Altitude, Heading, Pitch Ladder, Horizon Line,and so on.
-</BR>
+  ![image](https://github.com/swordmaster003/Fighter-Complete-Template-Pro/blob/master/Screenshots/F18Display.png)
 
-<BR>
-<STRONG> * </STRONG>
-The Fighter Missile System has two working modes:
-</BR>
+- The Fighter Flight System is designed according to the aerodynamics of modern fighter.
 
-<BR>
-One mode is called Single-Target mode,which means only one attack target can be locked at once and the missile you will launch is called 
-the general missle(this missile is a short range missile). 
-</BR>
+- The Fighter HUD system is Realistic and High Fidelity.
+  It automatically calculates and shows current Speed, Altitude, Heading, Pitch Ladder, Horizon Line,and so on.
 
-<BR>
-Another mode is called Multi-Target mode, which means multiple target can be locked at once,and the missiles you will launch are called the special missiles(these missiles are the long range missiles).
-</BR>
+  ![image](https://github.com/swordmaster003/Fighter-Complete-Template-Pro/blob/master/Screenshots/HUD.png)
+  
+- The Fighter Machine Gun System has a maximum heat limit. When the maximum heat is exceeded, it will enter the cool down state. 
 
-<BR>
-<STRONG> * </STRONG>
-The Fighter Machine Gun System has a maximum heat limit. When the maximum heat is exceeded, it will enter the cool down state . After the cooling is completed, the machine gun can be fired again.
-</BR>
+  ![image](https://github.com/swordmaster003/Fighter-Complete-Template-Pro/blob/master/Screenshots/MachineGun2.png)
+  
+  After the cooling is completed, the machine gun can be fired again.
+  
+  ![image](https://github.com/swordmaster003/Fighter-Complete-Template-Pro/blob/master/Screenshots/MachineGun1.png)
+  
+- The Fighter Missile System has two working modes:
+  
+  (1).One mode is called Single-Target mode,which means only one attack target can be locked at once and the missile you will launch is called the general missle(this missile is a short range missile). 
 
-<BR>
-<STRONG> * </STRONG>
-All the the missiles, the bullets, and the particle effects use the Object Pooling System to spawn and recycle in this template.
-</BR>
+  ![image](https://github.com/swordmaster003/Fighter-Complete-Template-Pro/blob/master/Screenshots/AimSingle.png)
 
-<BR>
-<STRONG> * </STRONG>
-Each fighter has different flight performance and the number of different weapons and weapons mounted.
-</BR> 
-<BR>
-You can easily switch the type of fighter with just one click.
-</BR> 
+  (2).Another mode is called Multi-Target mode, which means multiple target can be locked at once,and the missiles you will launch are
+      called the special missiles(these missiles are the long range missiles).
 
-<BR>
-<STRONG> * </STRONG>
-The custom editor of each script has been carefully designed.
-</BR>
-Their appearance is neat and friendly.
-</BR>
+  ![image](https://github.com/swordmaster003/Fighter-Complete-Template-Pro/blob/master/Screenshots/AimMulti.png)
 
-<BR>
-<STRONG> * </STRONG>
-Include two big and beautiful environments
-they are the Alps Mountain, and the Atacama Desert.
-</BR>
-<BR>
-Each environment is made up of nine terrain blocks,and these terrains are generated from map data exported by Bing Map.
-</BR>
+- All the the missiles, the bullets, and the particle effects use the Object Pooling System to spawn and recycle in this template.
 
-<BR>
-<STRONG> * </STRONG>
-Detailed documentation
-</BR>
+  ![image](https://github.com/swordmaster003/Fighter-Complete-Template-Pro/blob/master/Screenshots/ObjectPool.png)
 
-<BR>
-<STRONG>
-All script systems on the fighter:
-</STRONG>
-</BR>
+- You can easily switch the type of Player Fighter with just one click by the Fighter Switcher component on the Player Fighter. 
 
-<BR>
- - Fighter Center Control System.
-</BR>
- - Fighter Hardware Input System.
-</BR>
- - Fighter Mobile Input System.
-</BR>
- - Fighter Flight System.
-</BR>
- - Fighter Animation System.
-</BR>
- - Fighter HUD System.
-</BR>
- - Fighter Missile System.
-</BR>
- - Fighter Machine Gun System.
-</BR>
- - Fighter Camera System.
-</BR>
- - Fighter Switcher.
-</BR>
+  ![image](https://github.com/swordmaster003/Fighter-Complete-Template-Pro/blob/master/Screenshots/SwitchFighter.png)
+
+ - Include two big and beautiful environments,they are the Alps Mountain, and the Atacama Desert. 
+
+   ![image](https://github.com/swordmaster003/Fighter-Complete-Template-Pro/blob/master/Screenshots/Environment1.png)
+   
+   Each environment is made up of nine terrain blocks which are generated from map data exported by Bing Map.
+   
+   ![image](https://github.com/swordmaster003/Fighter-Complete-Template-Pro/blob/master/Screenshots/Environment2.png)
+
+- The custom editor of each script has been carefully designed.Their appearance is neat and friendly.
+
+- Detailed documentation
+
+## All script systems on the fighter:
+ 
+- Fighter Center Control System.
+- Fighter Hardware Input System.
+- Fighter Mobile Input System.
+- Fighter Flight System.
+- Fighter Animation System.
+- Fighter HUD System.
+- Fighter Missile System.
+- Fighter Machine Gun System.
+- Fighter Camera System.
+- Fighter Switcher.
